@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084856363399",
+    "project_id": "sppulogin",
+    "storage_bucket": "sppulogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084856363399:android:bcb17694fde70d88e78b22",
+        "android_client_info": {
+          "package_name": "com.example.login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084856363399-o67j8ekqu1utrt81c2gehasaev1r0mob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjPuhhMsWj-rOZYhl4b4m5ABAnxTFhcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084856363399-o67j8ekqu1utrt81c2gehasaev1r0mob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
